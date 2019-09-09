@@ -10,3 +10,5 @@ description              : "An amazing website."
 url                      : "https://minimaxa.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : ""
 # theme: jekyll-theme-dinky
+
+theme: jekyll-theme-cayman
