@@ -1,4 +1,12 @@
 remote_theme : mmistakes/minimal-mistakes
+minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+
+# Site Settings
+locale                   : "ko-KR"
+title                    : "작은꼬마의 꿈결같은 세상"
+title_separator          : "-"
+name                     : "작은꼬마"
+description              : "An amazing website."
 url                      : "https://minimaxa.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : ""
 # theme: jekyll-theme-dinky
